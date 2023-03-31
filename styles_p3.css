@@ -1,0 +1,21 @@
+form{
+    padding: 350px;
+}
+
+input{
+    background-color: azure;
+    font-size: 15px;
+}
+
+body{
+    background-image: url(login_wall.jpg);
+}
+
+label{
+    color: white;
+    font-size: 22px;
+}
+
+button{
+    font-size: 17px;
+}
